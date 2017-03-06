@@ -1,7 +1,7 @@
 <?php
 require 'http.php';
-require 'Db.php';
-require 'model.php';
+require '../Db/Db.php';
+require '../model/model.php';
 
 //获取token的方法
 /*查看最后一条的时间按和现在的时间进行比较

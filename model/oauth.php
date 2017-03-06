@@ -1,5 +1,5 @@
 <?php
-class Auth{
+class Oauth{
 	private  $access_token;
 	private  $expire_in;
 	private  $refresh_token;
